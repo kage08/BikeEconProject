@@ -1,0 +1,100 @@
+year,Borough,num_rides
+2015,Camden,905463
+2015,City of London,111773
+2015,Hackney,488778
+2015,Hammersmith & Fulham,498984
+2015,Islington,538482
+2015,Lambeth,637665
+2015,Newham,1660
+2015,Southwark,539308
+2015,Tower Hamlets,490690
+2015,Wandsworth,361464
+2015,Westminster,169292
+2016,Camden,939482
+2016,City of London,118201
+2016,Hackney,513227
+2016,Hammersmith & Fulham,530038
+2016,Islington,547544
+2016,Lambeth,681853
+2016,Newham,18100
+2016,Southwark,585095
+2016,Tower Hamlets,563340
+2016,Wandsworth,417124
+2016,Westminster,186193
+2017,Camden,964599
+2017,City of London,104091
+2017,Hackney,529736
+2017,Hammersmith & Fulham,545395
+2017,Islington,536590
+2017,Lambeth,692098
+2017,Newham,23297
+2017,Southwark,620322
+2017,Tower Hamlets,606656
+2017,Wandsworth,444736
+2017,Westminster,191973
+2018,Camden,928638
+2018,City of London,103937
+2018,Hackney,533138
+2018,Hammersmith & Fulham,581137
+2018,Islington,508018
+2018,Lambeth,752724
+2018,Newham,21194
+2018,Southwark,636387
+2018,Tower Hamlets,616371
+2018,Wandsworth,482034
+2018,Westminster,189382
+2019,Camden,897536
+2019,City of London,108240
+2019,Hackney,522984
+2019,Hammersmith & Fulham,579420
+2019,Islington,480103
+2019,Lambeth,779765
+2019,Newham,23939
+2019,Southwark,622929
+2019,Tower Hamlets,614005
+2019,Wandsworth,485680
+2019,Westminster,190134
+2020,Camden,693858
+2020,City of London,84372
+2020,Hackney,450792
+2020,Hammersmith & Fulham,648944
+2020,Islington,375018
+2020,Lambeth,779032
+2020,Newham,34791
+2020,Southwark,628483
+2020,Tower Hamlets,668969
+2020,Wandsworth,662592
+2020,Westminster,198751
+2021,Camden,765773
+2021,City of London,90663
+2021,Hackney,468355
+2021,Hammersmith & Fulham,634715
+2021,Islington,396043
+2021,Lambeth,848339
+2021,Newham,29034
+2021,Southwark,697161
+2021,Tower Hamlets,655364
+2021,Wandsworth,617262
+2021,Westminster,222726
+2022,Camden,856828
+2022,City of London,106136
+2022,Hackney,532319
+2022,Hammersmith & Fulham,624655
+2022,Islington,444197
+2022,Lambeth,825247
+2022,Newham,28152
+2022,Southwark,704075
+2022,Tower Hamlets,671589
+2022,Wandsworth,589141
+2022,Westminster,219925
+2023,Camden,17887
+2023,City of London,2194
+2023,Hackney,12306
+2023,Hammersmith & Fulham,15186
+2023,Islington,10520
+2023,Lambeth,17750
+2023,Newham,595
+2023,Southwark,16010
+2023,Tower Hamlets,15927
+2023,Wandsworth,14289
+2023,Westminster,3795

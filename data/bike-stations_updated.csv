@@ -1,0 +1,794 @@
+year,bikes_count,docks_count,name,Borough
+,48,51,"East India DLR, Blackwall",Tower Hamlets
+2013.0,39,39,"Teversham Lane, Stockwell",Lambeth
+2010.0,0,0,"Bank of England Museum, Bank",Unknown
+2010.0,14,14,"Colombo Street, Southwark",Southwark
+2010.0,15,16,"Pancras Road, King's Cross",Camden
+,15,16,"Tachbrook Street, Victoria",Unknown
+2011.0,15,15,"Waterloo Bridge, South Bank",Lambeth
+2012.0,15,16,"Hermitage Court, Wapping",Tower Hamlets
+2010.0,16,16,"St. George's Square, Pimlico",Unknown
+2016.0,16,18,"The Metropolitan, Portobello",Unknown
+2010.0,18,19,"Warwick Avenue Station, Maida Vale",Unknown
+2010.0,18,19,"Warwick Square, Pimlico",Unknown
+2012.0,18,19,"Hewison Street, Old Ford",Unknown
+2012.0,18,18,"Ford Road, Old Ford",Unknown
+2010.0,19,20,"Walnut Tree Walk, Vauxhall",Lambeth
+2010.0,20,21,"Ampton Street , Clerkenwell",Camden
+2012.0,21,22,"Rectory Square, Stepney",Tower Hamlets
+2013.0,22,22,"Cadogan Close, Victoria Park",Unknown
+2015.0,23,24,"Halford Road, West Kensington",Hammersmith & Fulham
+2010.0,24,24,"West Cromwell Road, Earl's Court",Unknown
+,24,27,"Goldsmith's Row, Haggerston",Unknown
+,24,27,"Watney Street, Shadwell",Unknown
+2013.0,26,27,"Richmond Way, Shepherd's Bush",Hammersmith & Fulham
+2013.0,26,27,"Crabtree Lane, Fulham",Hammersmith & Fulham
+2016.0,28,30,"Ossulston Street, Somers Town",Camden
+2012.0,29,30,"Pritchard's Road, Bethnal Green",Tower Hamlets
+2013.0,30,31,"Everington Street, Fulham",Hammersmith & Fulham
+2010.0,34,35,"LSBU (Borough Road), Elephant & Castle",Southwark
+2012.0,35,35,"Saunders Ness Road, Cubitt Town",Unknown
+2020.0,35,35,"Canada Water Station, Rotherhithe",Southwark
+2010.0,42,43,"Knightsbridge, Hyde Park",Unknown
+,36,41,"Westferry DLR, Limehouse",Unknown
+2013.0,44,45,"Ada Street, Hackney Central",Hackney
+2010.0,14,15,"Waterloo Road, South Bank",Lambeth
+2010.0,15,16,"Commercial Street, Shoreditch",Hackney
+2010.0,15,19,"Vincent Square, Westminster",Unknown
+2013.0,15,16,"Buckingham Gate, Westminster",Westminster
+2010.0,16,18,"Park Street, Bankside",Southwark
+2010.0,16,17,"Abingdon Villas, Kensington",Unknown
+2013.0,16,18,"Knaresborough Place, Earl's Court",Unknown
+2010.0,16,17,"Lower Marsh, Waterloo",Lambeth
+2016.0,16,28,"Gauden Road, Clapham",Lambeth
+,17,18,"Bishop's Bridge Road West, Bayswater",Unknown
+2012.0,17,18,"New Cavendish Street, Marylebone",Unknown
+2022.0,17,19,"London Street, Paddington",Unknown
+2010.0,19,21,"Hampton Street, Walworth",Southwark
+2011.0,19,20,"Crinan Street, King's Cross",Islington
+2012.0,19,21,"Malmesbury Road, Bow",Unknown
+2013.0,19,21,"Elysium Place, Fulham",Hammersmith & Fulham
+2011.0,21,24,"Brick Lane Market, Shoreditch",Unknown
+2013.0,21,22,"Aylward Street, Stepney",Unknown
+2010.0,22,23,"St. Chad's Street, King's Cross",Camden
+2012.0,23,27,"Merchant Street, Bow",Tower Hamlets
+,23,24,"Regent's Row , Haggerston",Hackney
+2013.0,23,25,"Battersea Church Road, Battersea",Wandsworth
+2012.0,24,26,"Aston Street, Stepney",Unknown
+2010.0,25,26,"Lansdowne Drive, Hackney Central",Hackney
+2010.0,26,27,"Stamford Street, South Bank",Lambeth
+2012.0,26,27,"Westfield Library Corner, Shepherd's Bush",Unknown
+2013.0,26,28,"Hortensia Road, West Brompton",Unknown
+2017.0,26,28,"Here East South, Queen Elizabeth Olympic Park",Unknown
+2010.0,27,29,"Bramham Gardens, Earl's Court",Unknown
+2013.0,27,28,"Surrey Lane, Battersea",Wandsworth
+2013.0,27,30,"Ethelburga Estate, Battersea Park",Unknown
+2018.0,29,30,"Ferndale Road, Brixton",Lambeth
+2012.0,30,33,"Sutton Street, Shadwell",Unknown
+,30,33,"Salmon Lane, Limehouse",Unknown
+2018.0,38,39,"Maida Vale, Maida Vale",Unknown
+2010.0,9,14,"LMU Commercial Road, Whitechapel",Unknown
+2010.0,12,14,"Alderney Street, Pimlico",Unknown
+2010.0,12,16,"Dorset Square, Marylebone",Unknown
+2011.0,12,17,"Vincent Street, Pimlico",Unknown
+2010.0,14,18,"Concert Hall Approach 2, South Bank",Lambeth
+2012.0,15,20,"Gascoyne Road, Victoria Park",Hackney
+2013.0,15,18,"Harris Academy, Bermondsey",Southwark
+2010.0,16,19,"Vauxhall Street, Vauxhall",Lambeth
+2013.0,16,18,"Wendon Street, Old Ford",Unknown
+2010.0,17,21,"Rampayne Street, Pimlico",Unknown
+,20,22,"Percival Street, Finsbury",Islington
+2013.0,20,24,"Finlay Street, Fulham",Hammersmith & Fulham
+2013.0,20,22,"Alfreda Street, Battersea Park",Wandsworth
+2012.0,21,28,"Wapping Lane, Wapping",Unknown
+2013.0,21,24,"Erin Close, Walham Green",Hammersmith & Fulham
+2013.0,21,23,"Freston Road, Avondale",Unknown
+2010.0,24,26,"Falkirk Street, Hoxton",Hackney
+2010.0,25,27,"Golden Lane, Barbican",Unknown
+2022.0,27,30,"Burgess Park Albany Road, Walworth",Southwark
+2010.0,28,31,"Kennington Lane Rail Bridge, Vauxhall",Lambeth
+2012.0,29,32,"Hollybush Gardens, Bethnal Green",Tower Hamlets
+,31,33,"Teviot Street, Poplar",Tower Hamlets
+2012.0,33,35,"Shadwell Station, Shadwell",Unknown
+2012.0,33,36,"Furze Green, Bow",Unknown
+2010.0,34,36,"Tyers Gate, Bermondsey",Southwark
+2013.0,34,36,"Hibbert Street, Battersea",Wandsworth
+2010.0,7,10,"Concert Hall Approach 1, South Bank",Lambeth
+2011.0,10,15,"Chelsea Bridge, Pimlico",Unknown
+2010.0,11,16,"Charlbert Street, St. John's Wood",Unknown
+2011.0,12,15,"Penfold Street, Marylebone",Unknown
+2010.0,15,18,"Bath Street, St. Luke's",Islington
+2010.0,15,18,"Trebovir Road, Earl's Court",Unknown
+2013.0,15,22,"Nantes Close, Wandsworth",Wandsworth
+2013.0,15,18,"Mexfield Road, East Putney",Wandsworth
+2010.0,16,20,"Grove End Road, St. John's Wood",Unknown
+2013.0,17,21,"London Fields, Hackney Central",Unknown
+,18,21,"Naval Row, Blackwall",Tower Hamlets
+,18,21,"Putney Bridge Station, Fulham",Hammersmith & Fulham
+2013.0,18,21,"Great Suffolk Street, The Borough",Southwark
+2013.0,18,22,"World's End Place, West Chelsea",Unknown
+2013.0,18,23,"Chesilton Road, Fulham",Hammersmith & Fulham
+2019.0,19,24,"Walworth Square, Walworth",Southwark
+2010.0,21,24,"Sancroft Street, Vauxhall",Lambeth
+2013.0,21,24,"Stanley Grove, Battersea",Wandsworth
+2010.0,22,25,"Gloucester Street, Pimlico",Unknown
+2018.0,22,25,"Wynne Road, Stockwell",Lambeth
+,23,27,"Lancaster Drive, Blackwall",Tower Hamlets
+2010.0,24,28,"Macclesfield Rd, St Lukes",Unknown
+2012.0,24,29,"Ackroyd Drive, Bow",Tower Hamlets
+2012.0,25,28,"Cheshire Street, Bethnal Green",Unknown
+2012.0,27,31,"Clarkson Street, Bethnal Green",Tower Hamlets
+2010.0,29,32,"Dickens Square, Borough",Southwark
+2012.0,34,38,"Lancaster Gate , Bayswater",Unknown
+2010.0,38,41,"Borough Road, Elephant & Castle",Southwark
+2013.0,38,43,"Irene Road, Parsons Green",Unknown
+2011.0,10,16,"Devonshire Terrace, Bayswater",Unknown
+2010.0,11,16,"Princes Square, Bayswater",Unknown
+2010.0,12,17,"Wellington Road, St. John's Wood",Unknown
+2010.0,12,16,"Guildhouse Street, Victoria",Unknown
+,12,19,"Crimscott Street, Bermondsey",Southwark
+2010.0,13,18,"Grosvenor Crescent, Belgravia",Unknown
+2010.0,13,17,"Kensington Church Street, Kensington",Unknown
+2012.0,13,17,"East Ferry Road, Cubitt Town",Unknown
+2010.0,19,24,"Windsor Terrace, Hoxton",Hackney
+2010.0,19,23,"Gloucester Terrace, Bayswater",Unknown
+2013.0,19,23,"Clements Road, Bermondsey",Southwark
+2012.0,20,25,"Flamborough Street, Limehouse",Unknown
+2016.0,20,28,"Stratford Station, Stratford",Newham
+2010.0,21,26,"Boston Place, Marylebone",Unknown
+2010.0,21,25,"Lollard Street, Vauxhall",Lambeth
+2012.0,22,28,"Pitfield Street North,Hoxton",Hackney
+2013.0,22,26,"Beryl Road, Hammersmith",Hammersmith & Fulham
+2012.0,23,27,"York Hall, Bethnal Green",Tower Hamlets
+2016.0,23,28,"Here East North, Queen Elizabeth Olympic Park",Unknown
+2011.0,24,30,"Fire Brigade Pier, Vauxhall",Lambeth
+2013.0,24,28,"Falcon Road, Clapham Junction",Wandsworth
+2012.0,26,33,"Kennington Oval, Oval",Lambeth
+2018.0,26,32,"Normandy Road, Stockwell",Lambeth
+,29,36,"Clinton Road, Mile End",Tower Hamlets
+2014.0,29,33,"St. John's Road, Clapham Junction",Wandsworth
+2012.0,34,39,"Devons Road, Bow",Tower Hamlets
+2010.0,3,10,"Royal Avenue 2, Chelsea",Unknown
+,8,16,"Harrowby Street, Marylebone",Unknown
+2012.0,9,17,"Southern Grove, Bow",Tower Hamlets
+2010.0,10,16,"Cleveland Gardens, Bayswater",Unknown
+2010.0,10,15,"Ontario Street, Elephant & Castle",Unknown
+2010.0,11,17,"Vauxhall Cross, Vauxhall",Lambeth
+2010.0,12,17,"Penywern Road, Earl's Court",Unknown
+2012.0,12,20,"Pott Street, Bethnal Green",Tower Hamlets
+,13,19,"Eccleston Place, Victoria",Unknown
+2012.0,13,18,"Chrisp Street Market, Poplar",Tower Hamlets
+2014.0,13,21,"Limburg Road, Clapham Junction",Wandsworth
+2010.0,14,20,"New Inn Yard, Shoreditch",Hackney
+,14,21,"Bancroft Road, Bethnal Green",Tower Hamlets
+2010.0,16,21,"Borough High Street, The Borough",Southwark
+2012.0,19,24,"Sail Street, Vauxhall",Lambeth
+,19,24,"Langdon Park, Poplar",Tower Hamlets
+2013.0,19,24,"Ormonde Gate, Chelsea",Unknown
+,20,26,"Westminster Bridge Road, Elephant & Castle",Southwark
+2012.0,22,29,"Castlehaven Road, Camden Town",Camden
+2016.0,22,27,"Birkenhead Street, King's Cross",Camden
+2013.0,24,29,"Evesham Street, Avondale",Unknown
+2016.0,25,31,"Copper Box Arena, Queen Elizabeth Olympic Park",Hackney
+,27,33,"Wellington Row, Bethnal Green",Tower Hamlets
+2010.0,32,45,"Argyle Street, Kings Cross",Unknown
+2011.0,35,41,"Buxton Street 1, Shoreditch",Unknown
+2013.0,36,43,"Dunston Road , Haggerston",Hackney
+2011.0,6,14,"Charlotte Street, Fitzrovia",Camden
+2010.0,8,15,"Orsett Terrace, Bayswater",Unknown
+2011.0,8,15,"Cadogan Gardens, Chelsea",Unknown
+2010.0,10,19,"Margery Street, Clerkenwell",Islington
+2010.0,10,16,"The Tennis Courts, The Regent's Park",Unknown
+2010.0,10,17,"Goswell Road (City Uni), Finsbury",Islington
+2010.0,11,18,"Kennington Road Post Office, Oval",Lambeth
+2010.0,11,18,"Serpentine Car Park, Hyde Park",Unknown
+2012.0,11,18,"Old Montague Street, Whitechapel",Unknown
+2010.0,12,20,"Wapping High Street, Wapping",Tower Hamlets
+2010.0,13,19,"Black Prince Road, Vauxhall",Lambeth
+2010.0,13,21,"Baldwin Street, St. Luke's",Unknown
+2010.0,14,20,"Mallory Street, Marylebone",Unknown
+2013.0,14,20,"Albert Bridge Road, Battersea Park",Wandsworth
+2010.0,15,22,"Baylis Road, Waterloo",Lambeth
+2014.0,15,21,"Sandilands Road, Walham Green",Hammersmith & Fulham
+2022.0,15,22,"The Blue, Bermondsey",Southwark
+2010.0,16,24,"Lower Thames Street, Monument",Unknown
+2012.0,16,22,"Reardon Street, Wapping",Unknown
+2013.0,16,22,"All Saints' Road, Portobello",Unknown
+2013.0,16,24,"Durant Street, Bethnal Green",Tower Hamlets
+2016.0,16,23,"Victoria Rise, Clapham Common",Lambeth
+2010.0,17,23,"Kensington Gore, Knightsbridge",Unknown
+2014.0,17,24,"Harcourt Terrace, West Brompton",Unknown
+2010.0,19,26,"Palissy Street, Shoreditch",Tower Hamlets
+2011.0,20,29,"Ebury Bridge, Pimlico",Unknown
+2013.0,21,28,"Silverthorne Road, Battersea",Wandsworth
+2016.0,24,30,"Euston Square Gardens, Euston",Camden
+2010.0,27,33,"Great Dover Street, The Borough",Southwark
+2010.0,32,40,"Embankment (Savoy), Strand",Unknown
+2010.0,6,14,"Collingham Gardens, Earl's Court",Unknown
+2010.0,8,15,"West Smithfield Rotunda, Farringdon",Unknown
+2010.0,8,16,"Wormwood Street, Liverpool Street",Unknown
+2010.0,8,16,"Westminster University, Marylebone",Unknown
+,8,17,"Selby Street, Whitechapel",Tower Hamlets
+2010.0,9,17,"Queensway, Kensington Gardens",Unknown
+2010.0,9,16,"Bourne Street, Belgravia",Unknown
+2010.0,9,16,"Pembridge Villas, Notting Hill",Unknown
+2011.0,9,17,"Cleaver Street, Kennington",Lambeth
+,9,16,"Aberfeldy Street, Poplar",Tower Hamlets
+2010.0,10,17,"Southwick Street, Paddington",Unknown
+2012.0,10,18,"Fournier Street, Whitechapel",Unknown
+2012.0,10,18,"Limerston Street, West Chelsea",Unknown
+2010.0,11,21,"Belgrave Square, Belgravia",Unknown
+2013.0,11,21,"Islington Green, Angel",Islington
+2012.0,12,21,"Twig Folly Bridge, Mile End",Tower Hamlets
+,12,22,"Hoxton Station, Hoxton",Hackney
+,12,20,"Globe Town Market, Bethnal Green",Tower Hamlets
+2012.0,13,23,"Bell Lane, Liverpool Street",Unknown
+,13,21,"Parson's Green , Parson's Green",Hammersmith & Fulham
+2010.0,14,22,"Regency Street, Westminster",Unknown
+2010.0,15,22,"Hereford Road, Bayswater",Unknown
+2010.0,15,24,"Calshot Street , King's Cross",Islington
+2012.0,15,24,"Old Ford Road, Bethnal Green",Tower Hamlets
+,15,23,"Harford Street, Mile End",Tower Hamlets
+2013.0,16,24,"Normand Park, West Kensington",Hammersmith & Fulham
+2013.0,16,23,"Archbishop's Park, Waterloo",Lambeth
+2010.0,17,26,"Great Russell Street, Bloomsbury",Camden
+2013.0,17,24,"Chicheley Street, South Bank",Lambeth
+2018.0,17,25,"St John's Crescent, Brixton",Lambeth
+2012.0,19,28,"Jubilee Street, Stepney",Tower Hamlets
+2010.0,21,28,"Bricklayers Arms, Borough",Southwark
+2011.0,21,31,"Eaton Square (South), Belgravia",Unknown
+2013.0,21,28,"Clarence Walk, Stockwell",Lambeth
+2010.0,22,30,"Taviton Street, Bloomsbury",Camden
+2010.0,22,30,"Fashion Street, Whitechapel",Unknown
+2012.0,25,34,"Christian Street, Whitechapel",Unknown
+2010.0,29,36,"Waterloo Station 1, Waterloo",Lambeth
+2013.0,30,37,"Haggerston Road, Haggerston",Hackney
+2010.0,31,41,"Shoreditch High Street, Shoreditch",Hackney
+2010.0,2,10,"Royal Avenue 1, Chelsea",Unknown
+2011.0,3,13,"Palace Gate, Kensington Gardens",Unknown
+2010.0,4,13,"Rochester Row, Westminster",Unknown
+2010.0,7,16,"South Wharf Road, Paddington",Unknown
+2011.0,7,16,"Shouldham Street, Marylebone",Unknown
+2010.0,8,21,"Scala Street, Fitzrovia",Camden
+2010.0,8,19,"Northington Street , Holborn",Camden
+2010.0,8,18,"St. John Street, Finsbury",Islington
+2010.0,9,18,"Bell Street , Marylebone",Unknown
+,9,18,"Aberdeen Place, St. John's Wood",Unknown
+2013.0,10,18,"Felsham Road, Putney",Wandsworth
+2013.0,10,19,"Finnis Street, Bethnal Green",Tower Hamlets
+2014.0,10,18,"Elgin Avenue, Maida Hill",Unknown
+,13,23,"Alpha Grove, Millwall",Unknown
+2011.0,14,24,"Columbia Road, Shoreditch",Tower Hamlets
+2013.0,14,22,"Mile End Stadium, Mile End",Tower Hamlets
+2012.0,15,24,"Garnet Street, Shadwell",Unknown
+2010.0,17,26,"Queen Mother Sports Centre, Victoria",Unknown
+2013.0,17,25,"Simpson Street, Clapham Junction",Wandsworth
+2018.0,19,28,"Drummond Street , Euston",Camden
+,19,28,"Green Park Station, Mayfair",Unknown
+2013.0,19,27,"Culvert Road, Battersea",Wandsworth
+2018.0,19,27,"Sidney Road, Stockwell",Lambeth
+,20,30,"Antill Road, Mile End",Unknown
+2016.0,24,32,"Albert Square, Stockwell",Lambeth
+2012.0,27,36,"Fisherman's Walk West, Canary Wharf",Unknown
+2011.0,4,15,"Gloucester Road Station, South Kensington",Unknown
+,5,17,"Gunmakers Lane, Old Ford",Unknown
+2010.0,6,16,"Rathbone Street, Fitzrovia",Camden
+2010.0,7,17,"The Guildhall, Guildhall",Unknown
+2010.0,8,18,"Roscoe Street, St. Luke's",Unknown
+2010.0,8,17,"Sadlers Sports Centre, Finsbury",Islington
+2010.0,10,21,"Panton Street, West End",Unknown
+2010.0,10,20,"Finsbury Leisure Centre, St. Luke's",Islington
+2011.0,10,21,"Turquoise Island, Notting Hill",Unknown
+,11,20,"Abingdon Green, Westminster",Westminster
+2013.0,11,20,"Holden Street, Battersea",Wandsworth
+2012.0,13,23,"Canton Street, Poplar",Tower Hamlets
+2013.0,14,23,"Star Road, West Kensington",Hammersmith & Fulham
+2012.0,15,24,"Walmer Road, Avondale",Unknown
+2013.0,15,24,"Eel Brook Common, Walham Green",Hammersmith & Fulham
+2013.0,15,24,"Newton Street, Covent Garden",Camden
+2010.0,18,28,"Park Lane , Hyde Park",Unknown
+2010.0,19,32,"Endsleigh Gardens, Euston",Camden
+2012.0,21,30,"Philpot Street, Whitechapel",Tower Hamlets
+2010.0,29,38,"Bethnal Green Road, Shoreditch",Hackney
+2010.0,5,16,"Paddington Street, Marylebone",Unknown
+2010.0,5,16,"Montpelier Street, Knightsbridge",Unknown
+2011.0,5,15,"Snow Hill, Farringdon",City of London
+2010.0,6,17,"Campden Hill Road, Notting Hill",Unknown
+2010.0,6,18,"Chadwell Street, Angel",Islington
+2010.0,7,19,"Green Street, Mayfair",Unknown
+,7,18,"Newby Place, Poplar",Unknown
+2010.0,8,20,"Lambeth North Station, Waterloo",Lambeth
+2010.0,9,21,"Clapham Common Station, Clapham Common",Lambeth
+,9,21,"South Lambeth Road, Vauxhall",Lambeth
+2013.0,9,19,"Sugden Road, Clapham",Wandsworth
+2010.0,10,23,"Beaumont Street, Marylebone",Unknown
+2010.0,10,24,"Black Lion Gate, Kensington Gardens",Unknown
+2012.0,10,20,"Napier Avenue, Millwall",Unknown
+,11,21,"Northdown Street, King's Cross",Islington
+2014.0,12,23,"Westbourne Park Road, Portobello",Unknown
+2010.0,13,23,"North Wharf Road, Paddington",Unknown
+2010.0,14,27,"Drury Lane, Covent Garden",Unknown
+2010.0,14,24,"Clifton Street, Shoreditch",Hackney
+2012.0,14,24,"Bethnal Green Garden, Bethnal Green",Tower Hamlets
+2012.0,14,24,"Bromley High Street, Bow",Unknown
+2014.0,14,24,"The Vale, Chelsea",Unknown
+,15,26,"Greenberry Street, St.John's Wood",Unknown
+2010.0,16,27,"Murray Grove , Hoxton",Hackney
+2010.0,16,26,"Graham Street, Angel",Islington
+2012.0,17,27,"Hoxton Street, Hoxton",Hackney
+2013.0,17,28,"Grant Road East, Clapham Junction",Wandsworth
+2015.0,17,27,"Monier Road, Hackney Wick",Tower Hamlets
+2013.0,18,29,"Lansdowne Road, Ladbroke Grove",Unknown
+2013.0,18,28,"Dorothy Road, Clapham Junction",Wandsworth
+2012.0,19,29,"Stebondale Street, Cubitt Town",Unknown
+2013.0,19,30,"Peterborough Road, Sands End",Hammersmith & Fulham
+2010.0,21,32,"Claverton Street, Pimlico",Unknown
+2016.0,28,40,"Podium, Queen Elizabeth Olympic Park",Unknown
+2010.0,31,45,"Webber Street , Southwark",Southwark
+,33,44,"Caldwell Street, Stockwell",Lambeth
+2011.0,34,45,"Southwark Station 2, Southwark",Southwark
+2010.0,4,15,"Chelsea Green, Chelsea",Unknown
+2010.0,5,16,"Kingsway, Covent Garden",Unknown
+2010.0,6,18,"Broadwick Street, Soho",Unknown
+2010.0,6,17,"Greycoat Street , Westminster",Westminster
+,6,18,"Drayton Gardens, West Chelsea",Unknown
+,7,19,"Rotherhithe Roundabout, Rotherhithe",Southwark
+2013.0,7,25,"Spencer Park, Wandsworth Common",Wandsworth
+,8,20,"Bishop's Bridge Road East, Bayswater",Unknown
+2012.0,9,20,"Hansard Mews, Holland Park",Unknown
+2013.0,10,21,"Blythe Road West, Shepherd's Bush",Hammersmith & Fulham
+2014.0,10,21,"Prince of Wales Drive, Battersea Park",Wandsworth
+2014.0,10,21,"Rifle Place, Avondale",Unknown
+2020.0,10,22,"George Row, Bermondsey",Southwark
+2010.0,11,23,"Great Percy Street, Clerkenwell",Islington
+,11,22,"Thurtle Road, Haggerston",Hackney
+2013.0,11,24,"Lots Road, West Chelsea",Unknown
+2018.0,11,26,"Gas Holders, Battersea Park",Unknown
+2012.0,12,25,"St. Mary & St. Michael Church, Stepney",Unknown
+2013.0,12,24,"St. Peter's Terrace, Fulham",Hammersmith & Fulham
+2010.0,13,25,"Harriet Street, Knightsbridge",Unknown
+2012.0,13,24,"St. Katharine's Way, Tower",Tower Hamlets
+,13,27,"Fulham Park Road, Fulham",Hammersmith & Fulham
+2013.0,13,24,"Clarendon Road, Avondale",Unknown
+2018.0,13,24,"Cranmer Road, Stockwell",Lambeth
+,16,27,"Heron Quays DLR, Canary Wharf",Unknown
+2010.0,17,30,"Dock Street, Wapping",Tower Hamlets
+,19,30,"Colet Gardens, Hammersmith",Hammersmith & Fulham
+2010.0,21,33,"New Kent Road, The Borough",Southwark
+2012.0,22,33,"Parkway, Camden Town",Camden
+2012.0,25,39,"Import Dock, Canary Wharf",Unknown
+2010.0,31,42,"Harper Road, The Borough",Southwark
+,32,45,"Union Grove, Wandsworth Road",Lambeth
+2010.0,1,18,"Derry Street, Kensington",Unknown
+2010.0,1,16,"Wardour Street, Soho",Unknown
+2010.0,4,16,"Eversholt Street , Camden Town",Camden
+2010.0,4,17,"Grosvenor Square, Mayfair",Unknown
+2011.0,4,18,"Frith Street, Soho",Unknown
+2010.0,5,18,"St. Martin's Street, West End",Unknown
+2010.0,6,20,"St Mary's Hospital, Paddington",Unknown
+2010.0,6,18,"Kensington Town Hall, Kensington",Unknown
+,7,21,"Ilchester Gardens, Bayswater",Unknown
+2010.0,8,21,"Clerkenwell Green, Clerkenwell",Islington
+,12,24,"Abbotsbury Road, Holland Park",Unknown
+2013.0,13,26,"Ravenscourt Park Station, Hammersmith",Hammersmith & Fulham
+2013.0,13,26,"Orbel Street, Battersea",Wandsworth
+2013.0,14,28,"Westbridge Road, Battersea",Wandsworth
+2016.0,14,26,"Riverlight South, Nine Elms",Wandsworth
+2010.0,15,28,"Wenlock Road , Hoxton",Hackney
+2010.0,15,27,"Harrington Square 1, Camden Town",Camden
+2013.0,15,28,"Queensdale Road, Shepherd's Bush",Hammersmith & Fulham
+2013.0,16,28,"Stewart's Road, Wandsworth Road",Wandsworth
+2017.0,16,28,"Allington Street, Victoria",Unknown
+2013.0,17,29,"Putney Bridge Road, East Putney",Wandsworth
+2010.0,18,30,"Hardwick Street, Clerkenwell",Islington
+2013.0,18,30,"Spanish Road, Clapham Junction",Wandsworth
+2010.0,23,36,"London Zoo Car Park, The Regent's Park",Unknown
+2013.0,23,35,"Hartington Road, Stockwell",Lambeth
+2013.0,24,37,"Greyhound Road, Hammersmith",Hammersmith & Fulham
+2010.0,26,41,"Berry Street, Clerkenwell",Islington
+2010.0,0,15,"South Audley Street, Mayfair",Unknown
+2011.0,0,13,"Exhibition Road Museums 1, South Kensington",Unknown
+2013.0,2,18,"Bridge Avenue, Hammersmith",Hammersmith & Fulham
+2010.0,3,16,"Farringdon Lane, Clerkenwell",Islington
+2010.0,3,18,"Claremont Square, Angel",Islington
+2010.0,3,17,"Union Street, The Borough",Southwark
+2010.0,3,18,"Smith Square, Westminster",Westminster
+2011.0,3,16,"Moor Street, Soho",Unknown
+2011.0,3,16,"George Place Mews, Marylebone",Unknown
+2012.0,3,16,"Clarges Street, Mayfair",Unknown
+2010.0,4,19,"Bolsover Street, Fitzrovia",Unknown
+2010.0,4,18,"Porchester Place, Paddington",Unknown
+2010.0,6,22,"Park Road (Baker Street), The Regent's Park",Unknown
+2010.0,6,20,"Paddington Green, Paddington",Unknown
+2019.0,6,21,"Bonner Gate, Victoria Park",Unknown
+2010.0,7,20,"Long Lane , Bermondsey",Southwark
+2010.0,7,21,"Warwick Row, Westminster",Unknown
+2010.0,8,22,"Pall Mall East, West End",Unknown
+2010.0,8,22,"New North Road 2, Hoxton",Hackney
+2013.0,8,21,"St. Mark's Road, North Kensington",Unknown
+2013.0,8,22,"West Kensington Station, West Kensington",Hammersmith & Fulham
+2013.0,8,21,"Duke Street Hill, London Bridge",Southwark
+2010.0,9,22,"King Edward Walk, Waterloo",Southwark
+2013.0,9,24,"Stainsby Road , Poplar",Tower Hamlets
+2015.0,10,25,"Imperial Wharf Station, Sands End",Hammersmith & Fulham
+2010.0,11,24,"Cotton Garden Estate, Kennington",Lambeth
+2010.0,11,24,"Bermondsey Street, Bermondsey",Southwark
+2012.0,11,24,"Cephas Street, Bethnal Green",Tower Hamlets
+2010.0,12,27,"Howick Place, Westminster",Westminster
+2012.0,12,27,"Vauxhall Walk, Vauxhall",Lambeth
+2010.0,13,26,"Chepstow Villas, Notting Hill",Unknown
+2010.0,13,27,"Seville Street, Knightsbridge",Unknown
+2010.0,14,27,"Swan Street, The Borough",Southwark
+2013.0,15,28,"Ashley Crescent, Battersea",Wandsworth
+2010.0,17,33,"Flood Street, Chelsea",Unknown
+2010.0,19,32,"London Zoo,  The Regent's Park",Unknown
+2012.0,19,33,"Albert Gardens, Stepney",Unknown
+,21,35,"Queensbridge Road, Haggerston",Hackney
+2016.0,21,35,"Lambeth Palace Road, Waterloo",Lambeth
+2010.0,31,47,"Kennington Cross, Kennington",Lambeth
+2010.0,0,15,"Aldersgate Street, Barbican",Unknown
+2011.0,0,14,"Southampton Street, Strand",Unknown
+2012.0,0,14,"Exhibition Road Museums 2, South Kensington",Unknown
+2014.0,0,18,"Broadley Terrace, Marylebone",Unknown
+2010.0,1,16,"Nesham Street, Wapping",Tower Hamlets
+2010.0,1,16,"Curzon Street, Mayfair",Unknown
+2010.0,1,16,"Old Quebec Street, Marylebone",Unknown
+2010.0,1,16,"Carey Street, Holborn",Unknown
+2011.0,1,15,"Marloes Road, Kensington",Unknown
+2010.0,2,16,"Horseferry Road, Westminster",Westminster
+2010.0,2,18,"Earnshaw Street , Covent Garden",Unknown
+,2,18,"Manresa Road, Chelsea",Unknown
+2010.0,3,18,"Central House, Aldgate",Unknown
+2012.0,3,17,"Portman Square, Marylebone",Unknown
+2010.0,4,19,"Gloucester Road (Central), South Kensington",Unknown
+2010.0,4,21,"Westbourne Green, Westbourne",Unknown
+2010.0,4,20,"Nevern Place, Earl's Court",Unknown
+,4,18,"St Martins Close, Camden Town",Unknown
+2012.0,7,21,"Stepney Green Station, Stepney",Tower Hamlets
+,7,21,"Ladbroke Grove Central, Ladbroke Grove",Unknown
+2013.0,7,23,"Montserrat Road , Putney",Wandsworth
+2010.0,8,22,"Emperor's Gate, South Kensington",Unknown
+2010.0,8,22,"Clifton Road, Maida Vale",Unknown
+2010.0,9,24,"Albert Embankment, Vauxhall",Lambeth
+2022.0,9,24,"Blythe Road, Olympia",Hammersmith & Fulham
+2013.0,9,24,"Austin Road, Battersea Park",Wandsworth
+2010.0,10,24,"Riverlight North, Nine Elms",Wandsworth
+2010.0,10,27,"Tooley Street, Bermondsey",Southwark
+2010.0,10,24,"Prince Albert Road, The Regent's Park",Camden
+2013.0,11,26,"William Morris Way, Sands End",Hammersmith & Fulham
+2014.0,12,26,"Humbolt Road, Fulham",Hammersmith & Fulham
+2010.0,13,27,"Bayswater Road, Hyde Park",Unknown
+2013.0,13,27,"Heath Road, Battersea",Lambeth
+,13,27,"Coomer Place, West Kensington",Hammersmith & Fulham
+2013.0,14,28,"South Park, Sands End",Hammersmith & Fulham
+2013.0,14,28,"Clapham South, Clapham South",Lambeth
+2010.0,15,29,"Finsbury Library , Finsbury",Islington
+2012.0,16,31,"Lightermans Road, Millwall",Unknown
+2012.0,17,33,"Burdett Road, Mile End",Tower Hamlets
+2010.0,20,36,"Fanshaw Street, Hoxton",Hackney
+2010.0,0,16,"Red Lion Square, Holborn",Camden
+2010.0,0,17,"Wood Street, Guildhall",Unknown
+2010.0,0,15,"Houghton Street, Strand",Unknown
+2010.0,0,15,"South Kensington Station, South Kensington",Unknown
+2011.0,0,15,"Farm Street, Mayfair",Unknown
+2010.0,1,17,"Jewry Street, Aldgate",Unknown
+2010.0,2,18,"Crawford Street, Marylebone",Unknown
+2017.0,2,18,"Arundel Street, Temple",Unknown
+2010.0,2,17,"Geraldine Street, Elephant & Castle",Southwark
+2010.0,3,18,"Sackville Street, Mayfair",Unknown
+2010.0,3,18,"Butler Place, Westminster",Westminster
+2010.0,4,19,"Lexham Gardens, Kensington",Unknown
+2012.0,4,19,"Millharbour, Millwall",Unknown
+2010.0,5,20,"Waterloo Place, St. James's",Unknown
+2010.0,5,21,"Curlew Street, Shad Thames",Southwark
+2012.0,5,21,"Whiston Road, Haggerston",Hackney
+,5,20,"Tower Wharf, Bermondsey",Southwark
+,6,21,"Lansdowne Walk, Ladbroke Grove",Unknown
+2012.0,7,22,"Killick Street, King's Cross",Islington
+2010.0,8,24,"Pindar Street, Liverpool Street",Hackney
+2010.0,8,25,"Kensington Olympia Station, Olympia",Hammersmith & Fulham
+2010.0,9,24,"Rodney Road , Walworth",Southwark
+,9,26,"Preston's Road, Cubitt Town",Unknown
+2013.0,9,26,"Fulham Broadway, Walham Green",Hammersmith & Fulham
+2016.0,9,24,"Bevington Road West, North Kensington",Unknown
+2016.0,9,24,"Victory Place, Walworth",Southwark
+2010.0,10,26,"William IV Street, Strand",Unknown
+,10,26,"Addison Road, Holland Park",Unknown
+2010.0,11,26,"Theobald's Road , Holborn",Camden
+2010.0,13,30,"Shoreditch Park, Hoxton",Hackney
+2010.0,13,28,"Putney Pier, Wandsworth",Wandsworth
+2020.0,13,30,"Bermondsey Station, Bermondsey",Southwark
+2013.0,14,30,"Wandsworth Rd, Isley Court, Wandsworth Road",Unknown
+2013.0,15,31,"Plough Terrace, Clapham Junction",Wandsworth
+2016.0,15,30,"Tate Modern, Bankside",Southwark
+,23,41,"Strata, Elephant & Castle",Southwark
+,24,40,"Carnegie Street, King's Cross",Islington
+2012.0,28,44,"Lindfield Street, Poplar",Tower Hamlets
+2010.0,0,17,"Gower Place , Euston",Unknown
+2010.0,0,16,"Portugal Street, Holborn",Unknown
+2010.0,1,18,"Vicarage Gate, Kensington",Unknown
+2011.0,1,18,"South Parade, Chelsea",Unknown
+2010.0,2,18,"Broadcasting House, Marylebone",Unknown
+2010.0,2,18,"Grafton Street, Mayfair",Unknown
+2010.0,2,18,"Lisson Grove, St. John's Wood",Unknown
+2010.0,2,18,"Golden Square, Soho",Unknown
+2010.0,2,18,"Lambeth Road, Vauxhall",Lambeth
+2011.0,2,18,"Upper Grosvenor Street, Mayfair",Unknown
+2013.0,2,18,"Park Lane, Mayfair",Unknown
+2010.0,3,19,"New Globe Walk, Bankside",Southwark
+2010.0,3,20,"Southampton Place, Holborn",Camden
+2010.0,3,21,"Hinde Street, Marylebone",Unknown
+2013.0,4,21,"Danvers Street, West Chelsea",Unknown
+2013.0,4,21,"Charing Cross Hospital, Hammersmith",Hammersmith & Fulham
+2012.0,5,22,"Monument Street, Monument",Unknown
+2013.0,5,22,"Smugglers Way, Wandsworth",Wandsworth
+,6,22,"Hammersmith Road, Hammersmith",Hammersmith & Fulham
+2010.0,7,24,"Pont Street, Knightsbridge",Unknown
+2013.0,7,25,"Hertford Road, De Beauvoir Town",Hackney
+2016.0,7,24,"Kings Gate House, Westminster",Unknown
+2010.0,8,24,"Brunswick Square, Bloomsbury",Camden
+2010.0,8,24,"Ilchester Place, Kensington",Unknown
+,8,24,"Gloucester Avenue, Camden Town",Camden
+,11,27,"Albany Street, The Regent's Park",Camden
+,11,28,"Manbre Road, Hammersmith",Hammersmith & Fulham
+2013.0,12,28,"Morie Street, Wandsworth",Wandsworth
+2010.0,14,34,"Old Street Station, St. Luke's",Islington
+2013.0,14,30,"Vicarage Crescent, Battersea",Wandsworth
+2013.0,15,31,"Snowsfields, London Bridge",Southwark
+2012.0,19,36,"South Quay East, Canary Wharf",Unknown
+2016.0,21,37,"New Spring Gardens Walk, Vauxhall",Lambeth
+2013.0,23,40,"Courland Grove, Wandsworth Road",Lambeth
+2018.0,26,42,"Saltoun Road, Brixton",Lambeth
+2010.0,32,50,"St. John's Wood Church, The Regent's Park",Unknown
+2010.0,0,19,"Sumner Place, South Kensington",Unknown
+2010.0,0,17,"North Audley Street, Mayfair",Unknown
+2010.0,0,18,"St. George Street, Mayfair",Unknown
+2011.0,0,18,"Prince Consort Road, Knightsbridge",Unknown
+2011.0,0,17,"Clifford Street, Mayfair",Unknown
+2010.0,1,19,"River Street , Clerkenwell",Islington
+2010.0,1,20,"St. Luke's Church, Chelsea",Unknown
+2010.0,2,19,"Tavistock Place, Bloomsbury",Camden
+,2,19,"Driffield Road, Old Ford",Unknown
+2013.0,2,20,"Princedale Road , Holland Park",Unknown
+2014.0,2,20,"Hurlingham Park, Parsons Green",Hammersmith & Fulham
+2010.0,3,22,"Baker Street, Marylebone",Unknown
+2010.0,3,20,"Tysoe Street, Clerkenwell",Islington
+2013.0,4,22,"Hawley Crescent, Camden Town",Camden
+2013.0,5,25,"Charlotte Terrace, Angel",Islington
+,5,22,"Brandon Street, Walworth",Southwark
+2010.0,6,25,"Ashley Place, Victoria",Unknown
+2010.0,6,24,"Wellington Street , Strand",Unknown
+2013.0,6,24,"Woodstock Grove, Shepherd's Bush",Hammersmith & Fulham
+2012.0,7,24,"Cantrell Road, Bow",Unknown
+,7,24,"Russell Gardens, Olympia",Unknown
+2013.0,8,25,"Upper Richmond Road, Putney",Wandsworth
+2019.0,9,27,"Westminster Pier, Westminster",Westminster
+,11,30,"Pitfield Street Central, Hoxton",Hackney
+,12,29,"Seymour Place, Marylebone",Unknown
+2013.0,12,29,"Broomhouse Lane, Parsons Green",Hammersmith & Fulham
+2016.0,12,30,"Sopwith Way, Battersea Park",Wandsworth
+2013.0,13,30,"Ingrave Street, Clapham Junction",Wandsworth
+2013.0,14,32,"Vereker Road, West Kensington",Hammersmith & Fulham
+2013.0,14,32,"Neville Gill Close, Wandsworth",Wandsworth
+2014.0,15,33,"Little Brook Green, Brook Green",Hammersmith & Fulham
+2016.0,17,36,"Westferry Circus, Canary Wharf",Unknown
+2014.0,18,35,"Binfield Road, Stockwell",Lambeth
+2010.0,0,19,"Torrens Street, Angel",Islington
+2010.0,0,18,"Gloucester Road (North), Kensington",Unknown
+2010.0,0,19,"Barbican Centre, Barbican",Unknown
+2014.0,0,21,"Storey's Gate, Westminster",Westminster
+2010.0,1,19,"Great Titchfield Street, Fitzrovia",Unknown
+2010.0,2,21,"Longford Street, The Regent's Park",Camden
+2010.0,3,23,"Norton Folgate, Liverpool Street",City of London
+2010.0,3,23,"Craven Street, Strand",Unknown
+,3,21,"New Fetter Lane, Holborn",City of London
+2013.0,4,22,"Blenheim Crescent, Ladbroke Grove",Unknown
+2010.0,5,24,"Liverpool Road (N1 Centre), Angel",Islington
+2014.0,5,24,"Page Street, Westminster",Unknown
+2010.0,6,24,"Foley Street, Fitzrovia",Unknown
+2014.0,6,24,"Grenfell Road, Avondale",Unknown
+2014.0,6,25,"Ram Street, Wandsworth",Wandsworth
+2013.0,8,28,"Alma Road, Wandsworth",Wandsworth
+2013.0,8,26,"Sirdar Road, Avondale",Unknown
+2016.0,9,28,"Cromer Street, Bloomsbury",Camden
+2016.0,9,29,"Lavington Street, Bankside",Southwark
+2016.0,13,34,"East Village, Queen Elizabeth Olympic Park",Newham
+2010.0,14,34,"Elizabeth Bridge, Victoria",Unknown
+2012.0,14,36,"Upper Bank Street, Canary Wharf",Unknown
+,15,36,"Greenland Road, Camden Town",Camden
+2014.0,19,37,"Clapham Common North Side, Clapham Common",Wandsworth
+2012.0,26,45,"Eagle Wharf Road, Hoxton",Hackney
+2010.0,0,21,"Little Argyll Street, West End",Unknown
+2010.0,0,19,"Argyll Road, Kensington",Unknown
+2011.0,0,21,"Imperial College, Knightsbridge",Unknown
+2012.0,0,19,"Fore Street Avenue, Guildhall",Unknown
+2010.0,1,21,"Bruton Street, Mayfair",Unknown
+2013.0,1,20,"Putney Rail Station, Putney",Wandsworth
+2010.0,2,21,"Queen's Gate, Kensington Gardens",Unknown
+2012.0,2,21,"Bury Place, Holborn",Camden
+2010.0,3,25,"Bayley Street , Bloomsbury",Camden
+2011.0,3,24,"Millbank Tower, Pimlico",Unknown
+2013.0,3,25,"Thorndike Close, West Chelsea",Unknown
+2016.0,4,23,"Southwark Street, Bankside",Southwark
+2010.0,5,26,"Hatton Wall, Holborn",Camden
+2010.0,5,26,"Westbourne Grove, Bayswater",Unknown
+2013.0,5,27,"Battersea Park Road, Nine Elms",Wandsworth
+2010.0,6,25,"Godliman Street, St. Paul's",Unknown
+2010.0,8,29,"Abbey Orchard Street, Westminster",Westminster
+2013.0,8,28,"Queen's Circus, Battersea Park",Wandsworth
+2010.0,9,29,"Belgrave Road, Victoria",Unknown
+2013.0,9,29,"Oxford Road, Putney",Wandsworth
+2010.0,14,34,"Portland Place, Marylebone",Unknown
+,15,36,"BBC White City, White City",Unknown
+2010.0,18,37,"Cloudesley Road, Angel",Islington
+,26,45,"Pennington Street, Wapping",Unknown
+2010.0,0,21,"Woodstock Street, Mayfair",Unknown
+2010.0,0,20,"High Holborn , Covent Garden",Camden
+2011.0,0,20,"Exhibition Road, Knightsbridge",Unknown
+,0,20,"King Edward Street, St Pauls",City of London
+2011.0,1,21,"Stanhope Gate, Mayfair",Unknown
+2010.0,2,25,"Risinghill Street, Angel",Islington
+2010.0,3,24,"Tower Gardens , Tower",Tower Hamlets
+2010.0,4,24,"Marylebone Lane, Marylebone",Unknown
+,4,24,"Arlington Road, Camden Town",Camden
+,4,24,"York Way, Kings Cross",Unknown
+2010.0,5,25,"Queen's Gate (South), South Kensington",Unknown
+,5,25,"Farringdon Street, Holborn",City of London
+2016.0,7,27,"Good's Way, King's Cross",Camden
+2013.0,8,28,"Sheepcote Lane, Battersea",Wandsworth
+2010.0,11,32,"Guilford Street , Bloomsbury",Camden
+2013.0,12,33,"Brook Green South, Brook Green",Hammersmith & Fulham
+2014.0,14,36,"Doddington Grove, Kennington",Southwark
+2012.0,19,39,"Bow Church Station, Bow",Unknown
+2010.0,26,50,"Doric Way , Somers Town",Camden
+2010.0,0,21,"Cartwright Gardens , Bloomsbury",Camden
+2010.0,0,22,"Queen Street 1, Bank",Unknown
+2010.0,0,21,"St. Mary Axe, Aldgate",Unknown
+2011.0,0,23,"Kennington Station, Kennington",Lambeth
+2020.0,0,24,"Temple Gardens, Temple",Unknown
+2014.0,1,24,"Tallis Street, Temple",Unknown
+2013.0,2,24,"Phene Street, Chelsea",Unknown
+2010.0,4,27,"Sedding Street, Sloane Square",Unknown
+2010.0,4,25,"Breams Buildings, Holborn",Unknown
+2016.0,4,27,"Handyside Street, King's Cross",Camden
+2010.0,7,30,"Denyer Street, Knightsbridge",Unknown
+2010.0,7,30,"Notting Hill Gate Station, Notting Hill",Unknown
+2016.0,7,29,"Coram Street, Bloomsbury",Camden
+2014.0,8,30,"Gwendwr Road, West Kensington",Hammersmith & Fulham
+2010.0,9,30,"Milroy Walk, South Bank",Unknown
+2010.0,9,34,"Cadogan Place, Knightsbridge",Unknown
+2013.0,9,30,"Usk Road, Clapham Junction",Wandsworth
+2013.0,10,37,"Imperial Road, Sands End",Hammersmith & Fulham
+2013.0,16,37,"Michael Road, Walham Green",Hammersmith & Fulham
+2012.0,17,39,"Maplin Street, Mile End",Tower Hamlets
+2012.0,21,42,"Westfield Ariel Way, White City",Unknown
+2016.0,21,44,"Lee Valley VeloPark, Queen Elizabeth Olympic Park",Unknown
+,0,24,"Sun Street, Liverpool Street",Unknown
+2010.0,1,24,"Great Tower Street, Monument",Unknown
+2010.0,1,23,"Bedford Way, Bloomsbury",Camden
+2010.0,2,26,"Russell Square Station, Bloomsbury",Camden
+2013.0,2,25,"St. Bride Street, Holborn",Unknown
+2018.0,3,25,"Fore Street, Guildhall",Unknown
+2010.0,5,29,"Grosvenor Road, Pimlico",Unknown
+2012.0,6,29,"Westfield Southern Terrace ,Shepherd's Bush",Hammersmith & Fulham
+2013.0,6,28,"Northfields, Wandsworth",Wandsworth
+2010.0,8,33,"Bouverie Street, Temple",Unknown
+,10,35,"Waterloo Station 3, Waterloo",Lambeth
+2010.0,10,32,"Frampton Street, Paddington",Unknown
+2013.0,12,36,"Fawcett Close, Battersea",Wandsworth
+2012.0,13,37,"Granby Street, Shoreditch",Unknown
+,14,41,"Somerset House, Strand",Unknown
+2012.0,20,42,"Bow Road Station, Bow",Unknown
+2010.0,25,47,"City Road, Angel",Islington
+2017.0,1,27,"Battersea Power Station, Battersea Park",Wandsworth
+2011.0,3,27,"George Street, Marylebone",Unknown
+2010.0,4,28,"De Vere Gardens, Kensington",Unknown
+2010.0,4,27,"Sloane Avenue, Knightsbridge",Unknown
+2014.0,6,30,"Santos Road, Wandsworth",Wandsworth
+2016.0,6,30,"Clapham Road, Lingham Street, Stockwell",Unknown
+2010.0,7,31,"Queen's Gate (Central), South Kensington",Unknown
+2012.0,7,30,"St. John's Park, Cubitt Town",Unknown
+2010.0,8,32,"Queen Victoria Street, St. Paul's",Unknown
+2010.0,8,31,"Poured Lines, Bankside",Southwark
+2013.0,10,34,"Ashmole Estate, Oval",Lambeth
+2010.0,11,34,"Eastbourne Mews, Paddington",Unknown
+2013.0,11,35,"Shoreditch Court, Haggerston",Hackney
+2010.0,13,36,"Hyde Park Corner, Hyde Park",Unknown
+2014.0,16,39,"Ranelagh Gardens, Fulham",Hammersmith & Fulham
+2014.0,21,47,"Mile End Park Leisure Centre, Mile End",Tower Hamlets
+2010.0,0,24,"Charles II Street, West End",Unknown
+2010.0,0,26,"Warren Street Station, Euston",Camden
+2010.0,0,24,"Sardinia Street, Holborn",Unknown
+2010.0,1,27,"Triangle Car Park, Hyde Park",Unknown
+2010.0,2,27,"East Road, Hoxton",Hackney
+2010.0,4,28,"Holy Trinity Brompton, Knightsbridge",Unknown
+2011.0,4,30,"Holland Park, Kensington",Unknown
+2013.0,5,30,"Osiers Road, Wandsworth",Wandsworth
+2013.0,8,33,"Wandsworth Town Station, Wandsworth",Wandsworth
+2010.0,10,36,"New Road 1 , Whitechapel",Tower Hamlets
+2013.0,10,34,"Shepherd's Bush Road North, Shepherd's Bush",Hammersmith & Fulham
+2013.0,11,37,"All Saints Church, Portobello",Unknown
+2010.0,12,36,"Warwick Road, Olympia",Unknown
+2010.0,12,37,"Palace Gardens Terrace, Notting Hill",Unknown
+2017.0,13,38,"Southerton Road, Hammersmith",Hammersmith & Fulham
+,20,45,"Gaywood  Street, Elephant & Castle",Southwark
+2010.0,0,30,"Bunhill Row, Moorgate",Islington
+2018.0,3,30,"Sea Containers, South Bank",Unknown
+2011.0,8,33,"Wren Street, Holborn",Camden
+2010.0,9,35,"British Museum, Bloomsbury",Camden
+2010.0,16,41,"Tanner Street, Bermondsey",Southwark
+2010.0,0,28,"Hatton Garden, Holborn",Camden
+2015.0,0,28,"Houndsditch, Aldgate",Unknown
+2013.0,3,30,"Esmond Street, Putney",Wandsworth
+2010.0,5,34,"Newgate Street , St. Paul's",City of London
+2010.0,7,35,"St. John's Wood Road, St. John's Wood",Unknown
+2010.0,0,27,"Millennium Hotel, Mayfair",Unknown
+2016.0,4,35,"Timber Lodge, Queen Elizabeth Olympic Park",Unknown
+2010.0,6,36,"Kennington Road, Vauxhall",Lambeth
+2012.0,9,36,"Cleveland Way, Stepney",Tower Hamlets
+2012.0,14,41,"Ansell House, Stepney",Tower Hamlets
+2010.0,0,29,"Chapel Place, Marylebone",Unknown
+2010.0,0,30,"Howland Street, Fitzrovia",Camden
+2016.0,0,28,"Lincoln's Inn Fields, Holborn",Camden
+2013.0,1,29,"Upcerne Road, West Chelsea",Unknown
+2010.0,2,30,"Old Brompton Road, South Kensington",Unknown
+,4,35,"Strand, Strand",Unknown
+2012.0,5,33,"Kingsway Southbound, Strand",Unknown
+2010.0,18,46,"Empire Square, The Borough",Southwark
+2012.0,35,63,"Jubilee Plaza, Canary Wharf",Unknown
+2015.0,1,30,"Victoria & Albert Museum, South Kensington",Unknown
+2010.0,2,33,"Finsbury Circus, Liverpool Street",Unknown
+2010.0,3,34,"Crosswall, Tower",Unknown
+2010.0,3,34,"Braham Street, Aldgate",Unknown
+2010.0,3,34,"Albert Gate, Hyde Park",Unknown
+2010.0,5,36,"Wellington Arch, Hyde Park",Unknown
+2010.0,14,43,"Leonard Circus , Shoreditch",Hackney
+2010.0,22,57,"Soho Square , Soho",Unknown
+2012.0,0,31,"Mudchute DLR, Cubitt Town",Unknown
+2010.0,3,33,"Tavistock Street, Covent Garden",Unknown
+2013.0,6,36,"Rainville Road, Hammersmith",Hammersmith & Fulham
+2010.0,8,38,"Belvedere Road 1, South Bank",Lambeth
+2010.0,1,32,"Christopher Street, Liverpool Street",Hackney
+2010.0,1,33,"Finsbury Square , Moorgate",Islington
+2013.0,2,35,"Blackfriars Station, St. Paul's",City of London
+,4,36,"Queen Street 2, Bank",Unknown
+2012.0,13,46,"Mostyn Grove, Bow",Unknown
+,32,64,"Edgware Road Station, Marylebone",Unknown
+2010.0,0,32,"Store Street, Bloomsbury",Camden
+2013.0,0,32,"Barons Court Station, West Kensington",Hammersmith & Fulham
+2010.0,1,34,"Brushfield Street, Liverpool Street",Unknown
+2013.0,1,33,"Disraeli Road, Putney",Wandsworth
+2010.0,3,37,"Wright's Lane, Kensington",Unknown
+,4,37,"Northumberland Avenue, Strand",Unknown
+2012.0,9,45,"Bonny Street, Camden Town",Camden
+2010.0,20,52,"Museum of London, Barbican",Unknown
+2011.0,2,36,"Red Lion Street, Holborn",Camden
+2010.0,3,37,"Leman Street, Aldgate",Tower Hamlets
+2016.0,5,38,"Belvedere Road 2, South Bank",Lambeth
+2010.0,9,42,"Royal London Hospital, Whitechapel",Tower Hamlets
+2010.0,0,35,"Vauxhall Bridge , Pimlico",Unknown
+2010.0,2,37,"Phillimore Gardens, Kensington",Unknown
+2010.0,21,55,"Waterloo Station 2, Waterloo",Lambeth
+2012.0,1,36,"Spindrift Avenue, Millwall",Unknown
+2010.0,2,38,"Wells Street, Fitzrovia",Unknown
+2010.0,5,40,"St. James's Square, St. James's",Unknown
+2016.0,6,42,"Blackfriars Road, Southwark",Southwark
+2010.0,19,57,"Royal College Street, Camden Town",Camden
+2013.0,3,39,"Belford House, Haggerston",Hackney
+2013.0,11,48,"Stephendale Road, Sands End",Hammersmith & Fulham
+2012.0,6,45,"Queen Mary's, Mile End",Tower Hamlets
+2010.0,7,46,"Whitehall Place, Strand",Westminster
+2010.0,0,40,"Holborn Circus, Holborn",Camden
+2010.0,1,41,"Queen's Gate (North), Kensington",Unknown
+2011.0,2,42,"Natural History Museum, South Kensington",Unknown
+2013.0,6,46,"Bishop's Avenue, Fulham",Hammersmith & Fulham
+2013.0,15,56,"Parsons Green Station, Parsons Green",Unknown
+2010.0,12,56,"Hop Exchange, The Borough",Southwark
+2011.0,1,43,"Cheapside, Bank",Unknown
+2013.0,2,46,"Crisp Road, Hammersmith",Hammersmith & Fulham
+2012.0,10,54,"Jubilee Crescent, Cubitt Town",Unknown
+2010.0,1,49,"Malet Street, Bloomsbury",Camden
+2018.0,1,51,"Worship Street, Shoreditch",Hackney
+2010.0,1,54,"Hampstead Road, Euston",Camden
+2010.0,7,60,"Bankside Mix, Bankside",Southwark
+2010.0,0,54,"Moorfields, Moorgate",Islington
